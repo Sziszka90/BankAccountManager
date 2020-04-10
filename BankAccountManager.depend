@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586269913 source:c:\users\fer_s\downloads\programs\bankaccountmanager\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
